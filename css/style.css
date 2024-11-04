@@ -1,0 +1,182 @@
+body {
+    font-family: "montserrat", sans-serif;
+    width: 1200px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.span {
+    color: #FD9222;
+}
+
+.header {}
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 32px;
+}
+
+.header-logo {
+    color: #111;
+    font-size: 18px;
+    line-height: 1.11;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding-right: 365px;
+}
+
+.header-logo-span{
+    font-style: italic;
+}
+
+.header-logo-img {}
+
+.header-manu-list {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding-right: 90px;
+}
+
+.header-manu-item {}
+
+.header-manu-link {
+    color: #111;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: -0.02em;
+}
+
+.header-soc-list {
+    display: flex;
+    gap: 14px;
+}
+
+.header-soc-item {}
+
+.header-soc-link {}
+
+.hero {
+    width: 1136px;
+    height: 600px;
+}
+
+.hero-title {}
+
+.hero-btn {}
+
+.hero-btn-link {}
+
+.hero-btn-down {}
+
+.features {}
+
+.features-list {}
+
+.features-item {}
+
+.features-subtitle {}
+
+.features-text {}
+
+.teste {}
+
+.teste-title {}
+
+.span {}
+
+.teste-list {}
+
+.teste-item {}
+
+.teste-img {}
+
+.teste-text {}
+
+.made {}
+
+.made-title {}
+
+.made-img {}
+
+.made-subtitle {}
+
+.made-list {}
+
+.made-item {}
+
+.made-text {}
+
+.product {}
+
+.product-title {}
+
+.product-list {}
+
+.product-item {}
+
+.product-img {}
+
+.product-text {}
+
+.product-btn {}
+
+.sellers {}
+
+.sellers-title {}
+
+.sellers-list {}
+
+.sellers-item {}
+
+.sellers-img {}
+
+.sellers-text {}
+
+.loved {}
+
+.loved-list {}
+
+.loved-item {}
+
+.loved-img {}
+
+.loved-subtitle {}
+
+.loved-text {}
+
+.loved-btn {}
+
+.footer {}
+
+.footer-title {}
+
+.footer-text {}
+
+.footer-list {}
+
+.footer-item {}
+
+.footer-soc-link {}
+
+.footer-soc-img {}
+
+.footer-add {}
+
+.footer-add-list {}
+
+.footer-add-item {}
+
+.footer-nav {}
+
+.footer-nav-list {}
+
+.footer-nav-item {}
