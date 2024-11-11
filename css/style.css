@@ -1,8 +1,6 @@
 *,
 *::before,
-*::after {
-    box-sizing: border-box;
-}
+*::after {}
 
 body {
     font-family: "montserrat", sans-serif;
@@ -92,6 +90,7 @@ img {
 .header-conteiner {
     display: flex;
     gap: 90px;
+    align-items: center;
 }
 
 .header-manu-list {
@@ -134,9 +133,10 @@ img {
 }
 
 .hero-conteiner {
-    background-color: rgba(17, 17, 17, 0.6);
     border-radius: 30px;
     padding: 380px 40px 40px 40px;
+    background-image: url(../images/desctop.jpg);
+    background-size: cover;
 }
 
 .hero-title {
@@ -409,6 +409,7 @@ img {
 .loved-list {
     display: flex;
     gap: 28px;
+    margin-bottom: 50px;
 }
 
 .loved-item {}
@@ -440,6 +441,7 @@ img {
     border-radius: 100px;
     border-color: #FD9222;
     background-color: #FAFAFA;
+    margin-left: 472px;
 }
 
 .loved-btn:hover {
@@ -450,6 +452,7 @@ img {
 .footer {
     background-color: #1E1823;
     padding-top: 50px;
+    padding-bottom: 120px;
 }
 
 .footer-conteiner {}
